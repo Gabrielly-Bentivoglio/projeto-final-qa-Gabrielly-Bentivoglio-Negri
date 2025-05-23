@@ -47,7 +47,7 @@ Neste semestre, aprendi que qualidade em software vai além de apenas "funcionar
 - **Biblioteca:** `requests`  
 - **Objetivo:** Verificar se o endpoint da API retorna status HTTP 200  
 - **Resultado esperado:** Teste passa com sucesso se o status for 200  
-- **Arquivo:** `testes/teste_01.py`  
+- **Arquivo:** `teste/teste_01.py`  
 
 ---
 
@@ -55,7 +55,7 @@ Neste semestre, aprendi que qualidade em software vai além de apenas "funcionar
 - **Biblioteca:** `unittest`  
 - **Objetivo:** Validar o funcionamento de uma função de soma simples  
 - **Resultado esperado:** Teste aprovado se a função retornar corretamente o resultado da soma  
-- **Arquivo:** `testes/teste_02_unitario.py`  
+- **Arquivo:** `teste/teste_02_unitario.py`  
 
 ---
 
@@ -63,7 +63,7 @@ Neste semestre, aprendi que qualidade em software vai além de apenas "funcionar
 - **Biblioteca:** `selenium`, `unittest`  
 - **Objetivo:** Preencher automaticamente o formulário do site DemoQA com os dados de Gabrielly (21 anos)  
 - **Resultado esperado:** Teste passa se o modal "Thanks for submitting the form" for exibido  
-- **Arquivo:** `testes/teste_03_selenium_formulario.py`  
+- **Arquivo:** `teste/teste_03_selenium_formulario.py`  
 
 ---
 
